@@ -1,0 +1,31 @@
+{
+    "education": [
+        {
+            "year": "2023 - Present",
+            "institution": "Master's in Big Data",
+            "degree": "HEM, Casablanca"
+        },
+        {
+            "year": "2020 - 2023",
+            "institution": "Bachelor's in Computer Science Engineering",
+            "degree": "HEM, Casablanca"
+        },
+        {
+            "year": "2019 - 2020",
+            "institution": "Baccalaureat, BIOF PC",
+            "degree": "Pepiniere, Berrechid"
+        }
+    ],
+    "experience": [
+        {
+            "year": "2022",
+            "position": "Web & Data Management - M2E Automation",
+            "description": "responsible for optimizing website content and ensuring a smooth user experience. Proficient in data collection, organization, and analysis to support informed decision-making."
+        },
+        {
+            "year": "2020 - 2022",
+            "position": "Client Service, Operations, Design - Online Business",
+            "description": "Managed client interactions and resolved issues promptly. Coordinated and monitored day-to-day operations Designed logos, web pages, and advertisements for various products."
+        }
+    ]
+}

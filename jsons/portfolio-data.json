@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Quizz Game",
+        "description": "A Web Quizz Game Using back and front end development",
+        "image": "images/quizz-game.png",
+        "link": "https://github.com/elbouhali-nizar/web-quizz-game"
+    },
+    {
+        "name": "Movie Recommendation",
+        "description": "Movie Recommendation system based on python using flask,mongodb,html,js and css",
+        "image": "https://img1.picmix.com/output/stamp/normal/7/6/6/5/1765667_d3b84.png",
+        "link": "https://github.com/elbouhali-nizar/Movie-RecommendationSystem"
+    },
+    {
+        "name": "Sokoban Game",
+        "description": "Developed using C++ and SDL",
+        "image": "https://play-lh.googleusercontent.com/XkuHiFTJ4nBZCQizZ6POE6AOUzp2hkmAYQZmowjxF-6oGusAk3KVZL1hqe7Z_4TdgnQ",
+        "link": "https://github.com/elbouhali-nizar/sokoban-game"
+    },
+    {
+        "name": "Robotic",
+        "description": "Bluetooth Controlled Car using Arduino",
+        "image": "images/controlled-car.png",
+        "link": "https://github.com/elbouhali-nizar/bluetooth-car"
+    },
+    {
+        "name": "Billing Automation",
+        "description": "An automatic billing system in excel using VBA",
+        "image": "https://360subscriptionbilling.com/wp-content/uploads/2019/04/360CLOUD_SubscriptionBilling.png",
+        "link": "https://github.com/elbouhali-nizar/excel-auto-billing"
+    }]

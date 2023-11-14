@@ -1,0 +1,38 @@
+{
+    "codingSkills": [
+        {
+            "name": "Python",
+            "percent": "85%"
+        },
+        {
+            "name": "MongoDB",
+            "percent": "70%"
+        },
+        {
+            "name": "JEE",
+            "percent": "65%"
+        },
+        {
+            "name": "VBA",
+            "percent": "70%"
+        }
+    ],
+    "professionalSkills": [
+        {
+            "name": "Creativity",
+            "percent": "90%"
+        },
+        {
+            "name": "Problem-solving",
+            "percent": "75%"
+        },
+        {
+            "name": "Teamwork",
+            "percent": "85%"
+        },
+        {
+            "name": "Communication",
+            "percent": "80%"
+        }
+    ]
+}

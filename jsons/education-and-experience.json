@@ -2,21 +2,19 @@
     "education": [
         {
             "year": "2023 - Present",
-            "institution": "Master's in Big Data",
-            "degree": "HEM, Casablanca",
-            "description":""
+            "degree": "Master's in Big Data",
+            "description": "HEM, Casablanca"
+            
         },
         {
             "year": "2020 - 2023",
-            "institution": "Bachelor's in Computer Science Engineering",
-            "degree": "HEM, Casablanca",
-            "description":""
+            "degree": "Bachelor's in Computer Science Engineering",
+            "description": "HEM, Casablanca"
         },
         {
             "year": "2019 - 2020",
-            "institution": "Baccalaureat, BIOF PC",
-            "degree": "Pepiniere, Berrechid",
-            "description":""
+            "degree": "Baccalaureat, BIOF PC",
+            "description": "Pepiniere, Berrechid"
         }
     ],
     "experience": [

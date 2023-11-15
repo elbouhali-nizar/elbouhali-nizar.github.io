@@ -8,7 +8,7 @@ fetch('/jsons/education-and-experience.json')
         <div class="education-content">
           <div class="content">
             <div class="year"><i class='bx bxs-calendar'></i> ${item.year}</div>
-            <h3> ${item.institution || item.degree}</h3>
+            <h3> ${item.institution || item.degree || item.position}</h3>
                 <p>${item.description}</p>
           </div>
         </div>

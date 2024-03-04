@@ -18,7 +18,12 @@
     ],
     "experience": [
         {
-            "year": "2022",
+            "year": "2024",
+            "position": "DevOps Engineer - Experio",
+            "description": "My role centers around harnessing the power of GitHub Checks and other automation tools. I'm tasked with crafting and implementing automated processes that expedite testing, deployment, and overall project management. Leveraging technologies like Azure VM, Nginx, Jenkins, Odoo, and Docker, I create seamless integration points within our development environment. Whether it's automatically generating subdomains after code edits or orchestrating LinkedIn connection requests, my aim is to streamline tasks and boost productivity. Additionally, I oversee the automation of email communications, both internal and external, to ensure effective and timely correspondence. Through these efforts, I contribute to enhancing efficiency and driving innovation within our organization."
+        },
+        {
+            "year": "2023",
             "position": "Web & Data Management - M2E Automation",
             "description": "responsible for optimizing website content and ensuring a smooth user experience. Proficient in data collection, organization, and analysis to support informed decision-making."
         },

@@ -28,4 +28,10 @@
         "description": "An automatic billing system in excel using VBA",
         "image": "https://360subscriptionbilling.com/wp-content/uploads/2019/04/360CLOUD_SubscriptionBilling.png",
         "link": "https://github.com/elbouhali-nizar/excel-auto-billing"
+    },
+    {
+        "name": "Plagia Detection",
+        "description": "Plagia detection system between students using JEE",
+        "image": "images/plagia-pic.png",
+        "link": "https://github.com/elbouhali-nizar/plagia-detecting-seystem"
     }]

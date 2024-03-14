@@ -12,6 +12,12 @@
         "link": "https://github.com/elbouhali-nizar/Movie-RecommendationSystem"
     },
     {
+        "name": "LinkedIn AutoConnect",
+        "description": "LinkedIn Connection Requests Automation using python ( pyautogui, openCV )",
+        "image": "images/linkedIn.jpg",
+        "link": "https://github.com/elbouhali-nizar/LinkedInAutomate"
+    },
+    {
         "name": "Sokoban Game",
         "description": "Developed using C++ and SDL",
         "image": "https://play-lh.googleusercontent.com/XkuHiFTJ4nBZCQizZ6POE6AOUzp2hkmAYQZmowjxF-6oGusAk3KVZL1hqe7Z_4TdgnQ",
